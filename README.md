@@ -1,8 +1,8 @@
-# 阅读
+# OTPAuthenticator
 
 <div>
   <img width="192" height="192" align="left" src="./images/Icon.png" alt="Yuedu"/>
-  <h1>Yuedu</h1>
+  <h1>OTPAuthenticator</h1>
   <br>
   <p>OTPAuthenticator,  用来存储OTP一次性密码的一款安全、简洁、方便、美观的身份验证器。</p>
 
