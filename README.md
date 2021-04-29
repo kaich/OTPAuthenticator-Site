@@ -12,8 +12,7 @@
 
 ## 下载
 
-[苹果商店](OTPAuthenticator-TOTP验证器
-https://apps.apple.com/cn/app/otp-authenticator-totp-%E9%AA%8C%E8%AF%81%E5%99%A8/id1551264305)
+[苹果商店](https://apps.apple.com/cn/app/otp-authenticator-totp-%E9%AA%8C%E8%AF%81%E5%99%A8/id1551264305)
 
 
 ## 效果展示
